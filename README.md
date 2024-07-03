@@ -36,6 +36,6 @@ We use two datasets: i) H.C. Andersen fairy tales, and ii) Religious hymns
 
 [Paper]: forthcoming
 [CHC]: https://chc.au.dk
-[Contact]: pascale.moreira@cc.au.dk
+[Contact]: mailto:pascale.moreira@cc.au.dk
 
 
