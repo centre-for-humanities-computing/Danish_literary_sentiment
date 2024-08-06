@@ -1,0 +1,30 @@
+# Ignore all .log files
+*.log
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+.venv/
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore data folders
+data/txt
+data/
+annot_salmer/
+
+
+
+# Ignore all files in the 'temp' directory
+temp/
+
+# Ignore all .DS_Store files (common on macOS)
+.DS_Store
+data/big_gr_data_computed_measures.json

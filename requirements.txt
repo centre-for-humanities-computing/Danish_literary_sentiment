@@ -1,0 +1,16 @@
+afinn>=0.1
+numpy>=1.25.2
+openpyxl>=3.1.2
+requests>=2.31.0
+rpy2>=3.5.14
+spacy>=3.6.1
+nltk>=3.8.1
+
+asent>=0.8.3
+Afinn
+Sentida
+krippendorff
+
+transformers
+seaborn_qqplot
+deep_translator
