@@ -13,7 +13,7 @@ Our study compares human annotations to the continuous valence scores of both tr
 - Automatic annotation scores per sentence/verse (using dictionary- and transformer-based Sentiment Analysis tools)
 
 This data allows for the comparison of human/human and human/model sentiment scoring on Danish literary texts.
-<img source="https://github.com/centre-for-humanities-computing/Danish_literary_sentiment/raw/main/figures/Den_Lille_Havfrue_8arcs_plot.png" width="100%" align="right" />
+<img src="https://github.com/centre-for-humanities-computing/Danish_literary_sentiment/raw/main/figures/Den_Lille_Havfrue_8arcs_plot.png" width="100%" align="right" />
 
 ## 🔬 Data
 
