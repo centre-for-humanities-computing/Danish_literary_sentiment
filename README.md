@@ -10,7 +10,10 @@ Our study compares human annotations to the continuous valence scores of both tr
 
 - Original and modernized Danish text
 - Continuous valence annotation (0-10) by human annotators (n=2-3) per sentence/verse
-- Automatic annotation scores per sentence/verse (using dictionary- and transformer-based Sentiment Analysis systems)
+- Automatic annotation scores per sentence/verse (using dictionary- and transformer-based Sentiment Analysis tools)
+
+This data allows for the comparison of human/human and human/model sentiment scoring on Danish literary texts.
+<img source="https://github.com/centre-for-humanities-computing/Danish_literary_sentiment/raw/main/figures/Den_Lille_Havfrue_8arcs_plot.png" width="100%" align="right" />
 
 ## 🔬 Data
 
@@ -26,7 +29,7 @@ We use two datasets: i) H.C. Andersen fairy tales, and ii) Religious hymns
 
 |                             |                                                                                   |
 | --------------------------- | --------------------------------------------------------------------------------- |
-| 📄   **[Paper]**              | *Forthcoming* link to our paper comparing SA resources on Danish literary texts.                                                       |
+| 📄   **[Paper]**              | Link to our paper comparing SA resources on Danish literary texts.                                                       |
 | 🔬    **[CHC]**        | Center for Humanities Computing, hosting the project.                            |
 | ✉️    **[Contact]**        | Contact the authors.                           |
 
@@ -34,7 +37,7 @@ We use two datasets: i) H.C. Andersen fairy tales, and ii) Religious hymns
 
 
 
-[Paper]: forthcoming
+[Paper]: https://pascalefmoreira.github.io/pascalefeldkamp/pdfs/comparing_tools.pdf
 [CHC]: https://chc.au.dk
 [Contact]: mailto:pascale.moreira@cc.au.dk
 
