@@ -27,6 +27,7 @@ We use two datasets: i) H.C. Andersen fairy tales, and ii) Religious hymns
 
 ## 📖 Documentation
 
+Code for the **hymns** and **fairy tales** analysis (separately) -- annotator agreement and human/model correlations -- is available in this folder, while the SHAP values analysis of RoBERTa scores is available in [a seperate GitHub repository](https://github.com/centre-for-humanities-computing/fabula-shap).
 
 |                             |                                                                                   |
 | --------------------------- | --------------------------------------------------------------------------------- |
